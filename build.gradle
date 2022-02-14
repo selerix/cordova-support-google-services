@@ -1,9 +1,9 @@
 buildscript {
     repositories {
-        maven { url 'https://dl.bintray.com/kotlin/kotlin-eap' } 
-        maven { url 'https://maven.fabric.io/public' }  
+        //maven { url 'https://dl.bintray.com/kotlin/kotlin-eap' } 
+        //maven { url 'https://maven.fabric.io/public' }  
         google()
-        jcenter()
+        //jcenter()
         mavenCentral()
     }
 
